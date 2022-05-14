@@ -1,0 +1,5 @@
+const logger = require('./Logger')
+logger.warn("log a warning!")
+logger.info("log an info")
+logger.error("log a error")
+logger.debug("log a debug")

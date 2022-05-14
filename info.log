@@ -1,0 +1,20 @@
+  [warn]  2022-05-12T06:57:35.537Z loging
+  [info]  2022-05-12T06:57:35.539Z loging
+  [warn]  2022-05-12T07:12:21.029Z loging
+  [info]  2022-05-12T07:12:21.032Z loging
+08:20:00  [[33mwarn[39m] : loging
+08:20:00  [[32minfo[39m] : loging
+08:21:05  [[33mwarn[39m] : log a warning!
+08:21:05  [[32minfo[39m] : log an info
+08:21:05  [[31merror[39m] : log a error
+08:22:00  [33mwarn[39m : log a warning!
+08:22:00  [32minfo[39m : log an info
+08:22:00  [31merror[39m : log a error
+  [warn]  2022-05-12T07:22:17.721Z log a warning!
+  [info]  2022-05-12T07:22:17.723Z log an info
+  [error]  2022-05-12T07:22:17.724Z log a error
+  [[33mwarn[39m]  08:22:44 log a warning!
+  [[32minfo[39m]  08:22:44 log an info
+  [[31merror[39m]  08:22:44 log a error
+  [[32minfo[39m]  22:34:31 Connected
+  [[32minfo[39m]  22:34:52 Connected
